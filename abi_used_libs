@@ -1,0 +1,8 @@
+libQt5Core.so.5
+libQt5DBus.so.5
+libc.so.6
+libgcc_s.so.1
+libstdc++.so.6
+libtelegram-qt5.so.0.1
+libtelepathy-qt5-service.so.0
+libtelepathy-qt5.so.0
