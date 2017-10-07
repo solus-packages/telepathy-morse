@@ -1,6 +1,6 @@
 name       : telepathy-morse
 version    : 0.1.0
-release    : 1
+release    : 2
 source     :
     - https://github.com/TelepathyIM/telepathy-morse/archive/telepathy-morse-0.1.0.tar.gz : c9c361ef965b176a43e05d204eff7d83e508f4fcc3fd842c32a57187a3c7ce8f
 license    : GPL-2.0
