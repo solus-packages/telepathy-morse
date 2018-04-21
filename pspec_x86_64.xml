@@ -5,7 +5,7 @@
             <Name>Joshua Strobl</Name>
             <Email>joshua@stroblindustries.com</Email>
         </Packager>
-        <License>GPL-2.0</License>
+        <License>GPL-2.0-only</License>
         <PartOf>network.im</PartOf>
         <Summary xml:lang="en">Telepathy Connection Manager for Telegram network</Summary>
         <Description xml:lang="en">Telepathy Connection Manager for Telegram network
@@ -25,8 +25,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2017-10-07</Date>
+        <Update release="3">
+            <Date>2018-04-21</Date>
             <Version>0.1.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Joshua Strobl</Name>
